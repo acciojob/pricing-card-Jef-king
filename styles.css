@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+	text-align:center;
+	
+}
+.box{
+	display:inline-block;
+	width:250px;
+	padding:20px;
+	background-color:red;
+	box-shadow:soft-light;
+}
+button{
+	padding:10px;
+	background-color:blue;
+	color:white;
+	border-radius:5px;
+}
